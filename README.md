@@ -14,5 +14,5 @@
 6. Print 
 
 
-Блок-схема по задаче (размещение на гугл-диске):
- https://app.diagrams.net/#G16SmX7KdUgQjjTtjvFRFEBG2utDubrw-j
+Блок-схема по задаче (размещена на гугл-диске):
+https://app.diagrams.net/#G16SmX7KdUgQjjTtjvFRFEBG2utDubrw-j
